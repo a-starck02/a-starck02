@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @a-starck02
+- 👀 I’m interested in learning and putting my knowledge to use;
+- 🌱 I’m currently learning Node Js;
+- 💞️ I’m looking to collaborate on nothing in particular;
+- 📫 Reach me @ a.starck02@gmail.com
